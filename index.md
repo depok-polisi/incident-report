@@ -1,5 +1,5 @@
-Github Pages dari Rony Agus Vian
-Berisi link log mingguan dari os202
+# Github Pages dari Rony Agus Vian
+## Berisi link log mingguan dari os202
 
 # Share-linknya dong gan
 * [Week 00](W00/) 
