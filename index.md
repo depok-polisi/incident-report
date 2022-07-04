@@ -1,15 +1,6 @@
-# Github Pages dari Rony Agus Vian
-## Berisi link log mingguan dari os202
-
-# Share-linknya dong gan
-* [Week 00](W00/) 
-* [Week 01](W01/) 
-* [Week 02](W02/) 
-* [Week 03](W03/) 
-* [Week 04](W04/) 
-* [Week 05](W05/) 
-* [Week 06](W06/) 
-* [Week 07](W07/) 
-* [Week 08](W08/) 
-* [Week 09](W09/) 
-* [Week 10](W10/)
+Republic of Indonesia
+KEPOLISIAN NEGARA REPUBLIK INDONESIA
+POLRI RESORT METRO KOTA DEPOK
+SEKTOR BEJI
+Jl. H. Asmawi No.23, Beji, Kota Depok 16422
+Telp +6282231821260, Email polisi.kotadepok@gmail.com
